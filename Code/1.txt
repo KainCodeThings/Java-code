@@ -1,0 +1,26 @@
+I'm going to speedrun this but keep it basic enough, let's start:
+
+You abviously know of the basic symbols and they make up the majority of them, they are
+
+- Curved Brackets   ( )
+
+- Curly Brackets    { }
+
+- Double Quotes     " "
+
+- Square Brackets   [ ]
+
+- Semi-colon         :
+
+Easy enough and if anything you might not deviate from them for the most part in any form of code
+
+
+Now to print things it's obviously "print" however in Java it's a little more different as it has
+"Systen.out" on it, complete it looks like so
+
+System.out.print{};
+
+and before the question arises, yes, the "S" will always have to be capatalized, it's the only way
+the computer will understand the command.
+
+funny enough, to print out, you don't need the Double Quotes in the print function.
