@@ -1,0 +1,36 @@
+I'm going to speedrun this but keep it basic enough, let's start:
+
+You abviously know of the basic symbols and they make up the majority of code in general, they are
+
+- Curved Brackets   ( )     | Used for built-in functions
+
+- Curly Brackets    { }     | Used for functions we make, for example "main" or "inventory", I'll
+                              cover this later
+
+- Double Quotes     " "     | Used for "string" type variables and built-in functions
+
+- Square Brackets   [ ]     | Used for "Arrays"
+
+- Semi-colon         :      | NEVER FORGET IT AT THE END OF YOUR CODE LINE, aka, the cause of many
+                              programming headaches/most important thing in code
+
+Easy enough and if anything you might not deviate from them for the most part in any form of code
+
+
+Now to print things it's obviously "print" however in Java it's a little more different as it has
+"Systen.out" on it, complete it looks like so
+
+System.out.print{};
+
+And before the question arises, yes, the "S" will always have to be capatalized, it's the only way
+the computer will understand the command.
+
+Another thing to know is how to "comment", quite simply it's just double slashes
+
+- Double Slashes    //      | Used to, well, Comment, this does not add anything to the code, it's
+                                ignored by the compiler
+
+These are just a few things I will cover here since it's something all programmers should know, and 
+why not start with a basic form of how to use it than with throwing one in. After this note things 
+will get a little loaded, but just take it slow and you'll get through it, I'll try to keep it low 
+but informative, like this one.
