@@ -1,5 +1,10 @@
 I'm going to speedrun this but keep it basic enough, let's start:
 
+First thing is the Compiler we'll use to code, there are a few out there but for this, we'll be
+using Eclipse IDE
+
+- https://www.eclipse.org/downloads/
+
 You abviously know of the basic symbols and they make up the majority of code in general, they are
 
 - Curved Brackets   ( )     | Used for built-in functions
@@ -34,3 +39,6 @@ These are just a few things I will cover here since it's something all programme
 why not start with a basic form of how to use it than with throwing one in. After this note things 
 will get a little loaded, but just take it slow and you'll get through it, I'll try to keep it low 
 but informative, like this one.
+
+You can see this all in the "basics.java" file 
+[path: JavaCodeThings\`1_JavaNotes\JavaCode\src\main\java] if using eclipse for it all, it's under src
